@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR1j0017/SBCK/v1
+canonical_location: https://kanripo.org/bkk/KR1j0017/SBCK/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 急就篇
+  date: '2015-09-11 23:42:48.851353'
+  source:
+    repository: kanripo
+    path: KR1j0017
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR1j0017_000-SBCK.yaml, hash: 'sha256:5ecc7d8e8858a0b1d37e87dbff6ba7989c7d8e1297a83f39502bbf67fe125e56'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1j0017_000-SBCK.markers.yaml, hash: 'sha256:7546553e2cf42a146c9abf5f4c8e6e52c29804730e2e1e2a8e77feda32315137'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1j0017_SBCK_000-1a
+    span:
+    - body
+    - 0
+    - 22301
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:a25c153a60b37f2abe6594b7a30cae976c0e43a15c564e324e13449ae685bf61
