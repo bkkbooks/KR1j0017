@@ -21,9 +21,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR1j0017_001.yaml, hash: 'sha256:ae4e3015ebad65bf1761507a7f1d1fab0a85c5f9826d708d34caeca9990017b3'}
+  - {seq: 1, filename: KR1j0017_001.yaml, hash: 'sha256:9ddea132d6692c20308e8db22a92d8a52494736b1dddc399adc1d99474453012'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1j0017_001.markers.yaml, hash: 'sha256:a45c3a897e34d7117c5a5ff3db2bcae13d13b475b8283f1e62c608cd97764614'}
+  - {seq: 1, role: markers, filename: assets/KR1j0017_001.markers.yaml, hash: 'sha256:96a9f836fcbbe777b9077422f9259ccf5c6e09cb7ce898abcae0a072fc88c0a5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,4 @@ table_of_contents:
   label: 急就篇
   type: section
   level: 1
-hash: sha256:b0952366bf5bf411bfafb24560eac3802a2cfca8a7131218d315503287088c58
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:153e6d1071653dd7b6b2ba6196f98e67e73d212338f8cadab0fe0f48f32af22e
